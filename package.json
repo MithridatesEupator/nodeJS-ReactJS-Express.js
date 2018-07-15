@@ -1,0 +1,14 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "this is a test of expressJS\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[E",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mithridates",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
